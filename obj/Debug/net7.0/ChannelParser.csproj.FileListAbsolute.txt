@@ -1,0 +1,14 @@
+C:\Users\Vannarith\Desktop\ChannelParser\bin\Debug\net7.0\ChannelParser.exe
+C:\Users\Vannarith\Desktop\ChannelParser\bin\Debug\net7.0\ChannelParser.deps.json
+C:\Users\Vannarith\Desktop\ChannelParser\bin\Debug\net7.0\ChannelParser.runtimeconfig.json
+C:\Users\Vannarith\Desktop\ChannelParser\bin\Debug\net7.0\ChannelParser.dll
+C:\Users\Vannarith\Desktop\ChannelParser\bin\Debug\net7.0\ChannelParser.pdb
+C:\Users\Vannarith\Desktop\ChannelParser\obj\Debug\net7.0\ChannelParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vannarith\Desktop\ChannelParser\obj\Debug\net7.0\ChannelParser.AssemblyInfoInputs.cache
+C:\Users\Vannarith\Desktop\ChannelParser\obj\Debug\net7.0\ChannelParser.AssemblyInfo.cs
+C:\Users\Vannarith\Desktop\ChannelParser\obj\Debug\net7.0\ChannelParser.csproj.CoreCompileInputs.cache
+C:\Users\Vannarith\Desktop\ChannelParser\obj\Debug\net7.0\ChannelParser.dll
+C:\Users\Vannarith\Desktop\ChannelParser\obj\Debug\net7.0\refint\ChannelParser.dll
+C:\Users\Vannarith\Desktop\ChannelParser\obj\Debug\net7.0\ChannelParser.pdb
+C:\Users\Vannarith\Desktop\ChannelParser\obj\Debug\net7.0\ChannelParser.genruntimeconfig.cache
+C:\Users\Vannarith\Desktop\ChannelParser\obj\Debug\net7.0\ref\ChannelParser.dll
